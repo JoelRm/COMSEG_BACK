@@ -1,1 +1,1 @@
-Hola Este es el repositorio para el BACKEND de COMSEG
+Git clone "https://github.com/JoelRm/COMSEG_BACK.git"

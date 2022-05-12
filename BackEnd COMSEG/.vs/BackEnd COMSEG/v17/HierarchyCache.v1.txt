@@ -1,0 +1,278 @@
+﻿++Solution 'BackEnd COMSEG' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:BackEnd COMSEG.sln
+++01. Entidades
+i:{00000000-0000-0000-0000-000000000000}:01. Entidades
+++Comseg.Entities
+i:{89b5cf45-1f42-431e-849f-5b0bde64aea1}:Comseg.Entities
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.entities\bin\debug\net6.0\comseg.entities.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.entities\bin\debug\net6.0\comseg.entities.dll
+++Dependencies
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:>999
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:>1001
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:>998
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:>1000
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1464
+++Complex
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\
+++LoginInfo.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\logininfo.cs
+++MenuInfo.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\menuinfo.cs
+++RoleInfo.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\roleinfo.cs
+++SubMenuInfo.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\submenuinfo.cs
+++UnitInfo.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\complex\unitinfo.cs
+++Helpers
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\helpers\
+++EntityBase.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\entitybase.cs
+++Line.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\line.cs
+++Menu.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\menu.cs
+++Role.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\role.cs
+++SubMenu.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\submenu.cs
+++Unit.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\unit.cs
+++User.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\user.cs
+++Analyzers
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:analyzers
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:analyzers
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:analyzers
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:analyzers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:analyzers
+++Frameworks
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:frameworks
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:frameworks
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:frameworks
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:frameworks
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:frameworks
+++Constants.cs
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\helpers\constants.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1633528d-a9a7-4c50-9b31-e8a12210ab3f}:c:\comseg\backend comseg\comseg.entities\microsoft.netcore.app
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\microsoft.netcore.app
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\microsoft.netcore.app
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\microsoft.netcore.app
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\microsoft.netcore.app
+++02. Acceso a Datos
+i:{00000000-0000-0000-0000-000000000000}:02. Acceso a Datos
+++Comseg.DataAccess
+i:{0ac78d04-0674-4fa3-ba2a-c1daabcbdfc6}:Comseg.DataAccess
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.dataaccess\bin\debug\net6.0\comseg.dataaccess.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.dataaccess\bin\debug\net6.0\comseg.dataaccess.dll
+++Configurations
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\
+++Implementations
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\implementations\
+++MenuRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\menurepository.cs
+++RoleRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\rolerepository.cs
+++SubMenuRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\submenurepository.cs
+++UnitRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\unitrepository.cs
+++UserRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\implementations\userrepository.cs
+++Interfaces
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\interfaces\
+++IMenuRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\imenurepository.cs
+++IRoleRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\irolerepository.cs
+++ISubMenuRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\isubmenurepository.cs
+++IUnitRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\iunitrepository.cs
+++IUserRepository.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\interfaces\iuserrepository.cs
+++ComsegDbContext.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\comsegdbcontext.cs
+++Packages
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:packages
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:packages
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:packages
+++Projects
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:projects
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:projects
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:projects
+++MenuConfiguration.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\menuconfiguration.cs
+++RoleConfiguration.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\roleconfiguration.cs
+++SubMenuConfiguration.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\submenuconfiguration.cs
+++UnitConfiguration.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\unitconfiguration.cs
+++UserConfiguration.cs
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\comseg\backend comseg\comseg.dataaccess\configurations\userconfiguration.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\users\joel rm\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\users\joel rm\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\users\joel rm\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:c:\users\joel rm\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\users\joel rm\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:>1513
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:>1532
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1486
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:>1511
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1484
+++Microsoft.EntityFrameworkCore.Relational (6.0.4)
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:>1514
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{be651166-2024-4ef5-a311-d9e4b853eb42}:>1512
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1485
+++03. Logica de Negocio
+i:{00000000-0000-0000-0000-000000000000}:03. Logica de Negocio
+++Comseg.Services
+i:{0b7f0c02-d230-4b34-89ab-1f3e95c2c495}:Comseg.Services
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.services\bin\debug\net6.0\comseg.services.dll
+++PageService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\implementations\pageservice.cs
+++UnitService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\implementations\unitservice.cs
+++UserService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\implementations\userservice.cs
+++IUnitService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\interfaces\iunitservice.cs
+++IUserService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\interfaces\iuserservice.cs
+++DependencyInjection.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\dependencyinjection.cs
+++Comseg.DTO
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.dto\bin\debug\net6.0\comseg.dto.dll
+i:{0b7f0c02-d230-4b34-89ab-1f3e95c2c495}:Comseg.DTO
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.dto\bin\debug\net6.0\comseg.dto.dll
+++Request
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\
+++Login
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\login\
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\login\
+++Unit
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\unit\
+++Response
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\
+++UserLoginResponse.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\login\userloginresponse.cs
+++Pages
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\pages\
+++PagesResponse.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\pages\pagesresponse.cs
+++BaseResponse.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\response\baseresponse.cs
+++DtoLogin.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\login\dtologin.cs
+++DtoUnitInsert.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\unit\dtounitinsert.cs
+++DtoUnitModification.cs
+i:{5f5e14f3-522a-4305-8702-55bfd6cae896}:c:\comseg\backend comseg\comseg.dto\request\unit\dtounitmodification.cs
+++04. API REST
+i:{00000000-0000-0000-0000-000000000000}:04. API REST
+++Comseg.API
+i:{59c42e59-a977-4c3d-8a3d-0e275c431a4a}:Comseg.API
+++Connected Services 
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1465
+++Properties
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\
+++Controllers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\controllers\
+++PagesController.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\controllers\pagescontroller.cs
+++RolesController.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\controllers\rolescontroller.cs
+++UnitsController.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\controllers\unitscontroller.cs
+++UsersController.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\controllers\userscontroller.cs
+++Profiles
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\profiles\
+++AutoMapperProfiles.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\profiles\automapperprofiles.cs
+++appsettings.Development.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\appsettings.development.json
+++appsettings.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\appsettings.json
+++Program.cs
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\program.cs
+++Azure API Management
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1536
+++PublishProfiles
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\publishprofiles\
+++ServiceDependencies
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies\
+++launchSettings.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\launchsettings.json
+++serviceDependencies.ApiCOMSEG - Web Deploy.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies.apicomseg - web deploy.json
+++serviceDependencies.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies.json
+++This dependency type is not supported for current profile.
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1537
+++Microsoft.AspNetCore.Analyzers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.4)
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1489
+++Microsoft.Azure.ActiveDirectory.GraphClient (2.1.1)
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1488
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1490
+++Swashbuckle.AspNetCore (6.2.3)
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:>1487
+++ApiCOMSEG - Web Deploy.pubxml
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\publishprofiles\apicomseg - web deploy.pubxml
+++ApiCOMSEG - Web Deploy
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies\apicomseg - web deploy\
+++apis1.arm.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies\apicomseg - web deploy\apis1.arm.json
+++profile.arm.json
+i:{7363c087-5b01-423c-833d-077da75aa3d6}:c:\comseg\backend comseg\comseg.api\properties\servicedependencies\apicomseg - web deploy\profile.arm.json
+++IPageService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\interfaces\ipageservice.cs
+++RoleService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\implementations\roleservice.cs
+++IRoleService.cs
+i:{c6e7bd80-5efd-4a22-8b28-1b47a62a2d88}:c:\comseg\backend comseg\comseg.services\interfaces\iroleservice.cs

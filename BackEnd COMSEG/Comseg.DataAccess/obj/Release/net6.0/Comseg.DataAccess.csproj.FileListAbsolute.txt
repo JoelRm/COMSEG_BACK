@@ -1,0 +1,15 @@
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\bin\Release\net6.0\Comseg.DataAccess.deps.json
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\bin\Release\net6.0\Comseg.DataAccess.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\bin\Release\net6.0\Comseg.DataAccess.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\bin\Release\net6.0\Comseg.Entities.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\bin\Release\net6.0\Comseg.Entities.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.csproj.AssemblyReference.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.AssemblyInfoInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.AssemblyInfo.cs
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.csproj.CoreCompileInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.csproj.CopyComplete
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\refint\Comseg.DataAccess.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\Comseg.DataAccess.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\obj\Release\net6.0\ref\Comseg.DataAccess.dll

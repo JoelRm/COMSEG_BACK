@@ -1,0 +1,12 @@
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\bin\Debug\net6.0\Comseg.Entities.deps.json
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\bin\Debug\net6.0\Comseg.Entities.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\bin\Debug\net6.0\Comseg.Entities.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.csproj.AssemblyReference.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.AssemblyInfoInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.AssemblyInfo.cs
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.csproj.CoreCompileInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\refint\Comseg.Entities.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\Comseg.Entities.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.Entities\obj\Debug\net6.0\ref\Comseg.Entities.dll

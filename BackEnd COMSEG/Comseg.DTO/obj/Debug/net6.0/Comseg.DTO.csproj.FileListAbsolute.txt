@@ -1,0 +1,12 @@
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\bin\Debug\net6.0\Comseg.DTO.deps.json
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\bin\Debug\net6.0\Comseg.DTO.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\bin\Debug\net6.0\Comseg.DTO.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.csproj.AssemblyReference.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.AssemblyInfoInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.AssemblyInfo.cs
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.csproj.CoreCompileInputs.cache
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\refint\Comseg.DTO.dll
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\Comseg.DTO.pdb
+C:\COMSEG\BackEnd COMSEG\Comseg.DTO\obj\Debug\net6.0\ref\Comseg.DTO.dll

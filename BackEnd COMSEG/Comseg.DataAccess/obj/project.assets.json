@@ -1840,25 +1840,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joel Rm\\.nuget\\packages\\": {},
+    "C:\\Users\\Cesar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
+      "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
       "projectName": "Comseg.DataAccess",
-      "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-      "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\obj\\",
+      "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+      "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1874,8 +1876,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
-              "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
+            "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
+              "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
             }
           }
         }
@@ -1922,7 +1924,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

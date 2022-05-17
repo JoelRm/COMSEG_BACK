@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj": {}
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj": {}
   },
   "projects": {
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj": {
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj",
+        "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj",
         "projectName": "Comseg.API",
-        "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj",
-        "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.API\\obj\\",
+        "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.API\\Comseg.API.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,17 +35,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj"
               },
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj"
               },
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
               },
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj"
               }
             }
           }
@@ -108,25 +109,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
+        "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
         "projectName": "Comseg.DataAccess",
-        "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\obj\\",
+        "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -142,8 +144,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj"
               }
             }
           }
@@ -190,25 +192,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
+        "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
         "projectName": "Comseg.DTO",
-        "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
-        "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\obj\\",
+        "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -250,25 +253,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj",
+        "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj",
         "projectName": "Comseg.Entities",
-        "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj",
-        "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Entities\\obj\\",
+        "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\Comseg.Entities.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -310,25 +314,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj": {
+    "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj",
+        "projectUniqueName": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj",
         "projectName": "Comseg.Services",
-        "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj",
-        "packagesPath": "C:\\Users\\Joel Rm\\.nuget\\packages\\",
-        "outputPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.Services\\obj\\",
+        "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\Comseg.Services.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel Rm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -344,11 +349,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DataAccess\\Comseg.DataAccess.csproj"
               },
-              "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
-                "projectPath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj"
+              "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj": {
+                "projectPath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj"
               }
             }
           }
@@ -383,7 +388,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONJZHQO47ygfVp/stit1KfYfJNULeSh23yY9vIej4QIeSJRnFGFsp2P2Fv00IsARwmEMCzZIaKPp5ldw83JOaA==",
+  "dgSpecHash": "xtBRxNQVCiAzhQ5SBihsGRFiTPj7Tph4gTyFmDcHAQ5wKqFGhrc/LVcpy+iULo9p/dQjFd7qmn8rJk0u/iO7Kw==",
   "success": true,
-  "projectFilePath": "C:\\COMSEG\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
+  "projectFilePath": "C:\\COMSEG\\COMSEG_BACK\\BackEnd COMSEG\\Comseg.DTO\\Comseg.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

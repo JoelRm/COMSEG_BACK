@@ -31,6 +31,18 @@ namespace Comseg.Services
             services.AddTransient<IBranchRepository, BranchRepository>()
             .AddTransient<IBranchService, BranchService>();
 
+            services.AddTransient<ILineRepository, LineRepository>()
+                .AddTransient<ILineService, LineService>();
+
+            services.AddTransient<IMarkRepository, MarkRepository>()
+                .AddTransient<IMarkService, MarkService>();
+
+            services.AddTransient<ICategoryRepository, CategoryRepository>()
+                .AddTransient<ICategoryService, CategoryService>();
+
+            services.AddTransient<IFamilyRepository, FamilyRepository>()
+                .AddTransient<IFamilyService, FamilyService>();
+
             return services;
         }
     }

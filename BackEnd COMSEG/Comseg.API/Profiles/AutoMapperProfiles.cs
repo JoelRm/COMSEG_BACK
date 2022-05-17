@@ -39,7 +39,22 @@ namespace Comseg.API.Profiles
             CreateMap<Branch, BranchInfo>();
             CreateMap<BranchInfo, Branch>();
             CreateMap<DtoBranch, Branch>();
-            
+
+            CreateMap<Line, LineInfo>();
+            CreateMap<LineInfo, Line>();
+            CreateMap<DtoLine, Line>();
+
+            CreateMap<Mark, MarkInfo>();
+            CreateMap<MarkInfo, Mark>();
+            CreateMap<DtoMark, Mark>();
+
+            CreateMap<Category, CategoryInfo>();
+            CreateMap<CategoryInfo, Category>();
+            CreateMap<DtoCategory, Category>();
+
+            CreateMap<Family, FamilyInfo>();
+            CreateMap<FamilyInfo, Family>();
+            CreateMap<DtoFamily, Family>();
         }
     }
 }

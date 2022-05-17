@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Comseg.DataAccess
-build_property.ProjectDir = C:\COMSEG\BackEnd COMSEG\Comseg.DataAccess\
+build_property.ProjectDir = C:\COMSEG\COMSEG_BACK\BackEnd COMSEG\Comseg.DataAccess\
